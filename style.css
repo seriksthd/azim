@@ -1,4 +1,4 @@
-@media (max-width: 480px){
+@media (max-width: 400px){
    *{
     margin: 0px;
     padding: 0px;
@@ -98,7 +98,7 @@
        padding: 15px;
        border-radius: 15px;
        border: 0px;
-       margin-right: 20px;
+       margin-right: 50px;
     }
     .img2{
         width: 50px;
